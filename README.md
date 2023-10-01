@@ -1,6 +1,6 @@
-# foobar
+# pageage 
 
-foobar is a Python project for dealing with ...
+pageage is a Python project for dealing with Python Agent DEvelopment framework (PADE)
 
 ## Installation & Contributing
 
